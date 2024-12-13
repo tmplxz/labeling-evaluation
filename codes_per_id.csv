@@ -1,0 +1,727 @@
+code,parent,count,id
+AI-as-a-Service (Pretrained & GenAI),ML Methods,1,I10
+ANON,General Codes,26,I10
+Association: Nutri Score,Associations,1,I10
+Availablity of Data & Labels,Requirements on AI,2,I10
+Color Mapping,Misunderstanding & Confusion,2,I10
+Compet Rather Complex (Negative),General Comparison,3,I10
+Consider Color Blindness,Change or Enhance Coloring,2,I10
+Customizability to Use Case,Positive Feedback,1,I10
+Data & ML Literacy,General Codes,1,I10
+Data Exploration & Analysis,Types of Daily Work,1,I10
+Design,Positive Feedback,1,I10
+Explain Color Scoring,Change or Enhance Coloring,1,I10
+Generalizability of Labeling,Limitations,1,I10
+Health & Medicine,AI Applications & Use Cases,1,I10
+Interactivity & Customizability,Room for Improvements,1,I10
+Knowledge Acquisition & Transfer,Possible Use Cases,2,I10
+Metric Aggregation & Compound,Misunderstanding & Confusion,2,I10
+Misunderstanding & Confusion,Limitations,1,I10
+ML Methods,Q1 - Who and Why?,1,I10
+Money Quotes,General Codes,1,I10
+Multiple Criteria,Design,2,I10
+Power Draw,Understanding of Properties,1,I10
+Predictive Quality,Usability & Performance,1,I10
+Q4 - What About Trust?,,1,I10
+Regulation Skepsis,Dimensions of Trust,1,I10
+Robustness,Understanding of Properties,1,I10
+Room for Improvements,Limitations,2,I10
+Software Development,Types of Daily Work,3,I10
+Understanding of Properties,Misunderstanding & Confusion,1,I10
+Up-to-dateness & Usability,Property Importance,1,I10
+Usability Beats Trust Issues,Trust Through Usage,1,I10
+Used: Asking Experts,Workflows and Use,1,I10
+Used: Google,Workflows and Use,2,I10
+Used: Kaggle,Workflows and Use,1,I10
+Used: Model Cards,Workflows and Use,1,I10
+Used: Paper,Workflows and Use,1,I10
+Using AI VS Developing AI,General Codes,1,I10
+AI-as-a-Service (Pretrained & GenAI),ML Methods,7,I11
+ANON,General Codes,1,I11
+Association: Nutri Score,Associations,1,I11
+Availablity of Data & Labels,Requirements on AI,3,I11
+Azure,ML Tools & Brands,1,I11
+Business Understanding,Types of Daily Work,2,I11
+Certification,Limitations,2,I11
+Color Mapping,Misunderstanding & Confusion,1,I11
+Communication & Teambuilding,General Business Problems,1,I11
+Compet More In-Depth (Positive),General Comparison,1,I11
+Compet Rather Complex (Negative),General Comparison,1,I11
+Consulting,Types of Daily Work,2,I11
+Customizability,Requirements on AI,1,I11
+Data Connectivity,Availablity of Data & Labels,2,I11
+Data Exploration & Analysis,Types of Daily Work,2,I11
+Design,Positive Feedback,3,I11
+Developers of AI,Who Needs Trust,3,I11
+Dimensions of Trust,Q4 - What About Trust?,3,I11
+Distrust in Labels,Dimensions of Trust,2,I11
+Documentation & Reporting,Requirements on AI,2,I11
+End-Users of AI,Who Needs Trust,1,I11
+"Energy, Resources & Sustainability",Property Importance,1,I11
+Experts Using AI,Who Needs Trust,3,I11
+Explain Color Scoring,Change or Enhance Coloring,1,I11
+Generalizability of Labeling,Limitations,1,I11
+Health & Medicine,AI Applications & Use Cases,1,I11
+Info on Cost & Money,Room for Improvements,1,I11
+Insecurity,General Codes,1,I11
+Knowledge Acquisition & Transfer,Possible Use Cases,4,I11
+Locality,Privacy,2,I11
+Manufacturing & Industry,AI Applications & Use Cases,2,I11
+Maybe Too Abstract,Limitations,5,I11
+Misunderstanding & Confusion,Limitations,1,I11
+Model Catalogues & Decisions,Possible Use Cases,5,I11
+Moving with SOTA,General Business Problems,1,I11
+Multiple Criteria,Design,2,I11
+Natural Language Processing,ML Methods,2,I11
+Predictive Quality,Property Importance,2,I11
+Privacy,Requirements on AI,3,I11
+Production Monitoring,Manufacturing & Industry,1,I11
+Q4 - What About Trust?,,1,I11
+Robustness,Understanding of Properties,1,I11
+Self- VS Externally-Certified,Trustable Authorities,1,I11
+TensorFlow,ML Tools & Brands,1,I11
+Termporal Performance,Property Importance,1,I11
+Traditional AI (ML & Training Models),ML Methods,5,I11
+Trust in Academia,Trustable Authorities,1,I11
+Trust in Companies,Trustable Authorities,2,I11
+Trust in Labels,Dimensions of Trust,1,I11
+Trust in Open Source,Trustable Authorities,2,I11
+Understanding & Transparency,Requirements on AI,2,I11
+Up-to-dateness & Usability,Property Importance,1,I11
+Usability & Performance,Requirements on AI,1,I11
+Use Case Understanding,Limitations,1,I11
+Used: Asking Experts,Workflows and Use,1,I11
+Used: Blogs and Journalists,Workflows and Use,1,I11
+Used: Code Repos,Workflows and Use,1,I11
+Used: Google,Workflows and Use,1,I11
+Workflows and Use,Q3 - Competitors?,1,I11
+AI-as-a-Service (Pretrained & GenAI),ML Methods,1,I12
+ANON,General Codes,1,I12
+Association: Energy Labels,Associations,1,I12
+Association: Nutri Score,Associations,1,I12
+Business Growth Thanks to AI,General Codes,2,I12
+Certification,Limitations,1,I12
+Color Mapping,Misunderstanding & Confusion,1,I12
+Communication & Teambuilding,General Business Problems,1,I12
+Compet More In-Depth (Positive),General Comparison,1,I12
+Consistency & Robustness,Usability & Performance,1,I12
+Consistency & Robustness,Property Importance,1,I12
+"Energy, Resources & Sustainability",Property Importance,1,I12
+Experienced Quality & Human Feedback,Predictive Quality,3,I12
+General AI Skeptics,Dimensions of Trust,1,I12
+Generalizability of Labeling,Limitations,1,I12
+Info on Cost & Money,Room for Improvements,1,I12
+Knowledge Acquisition & Transfer,Possible Use Cases,1,I12
+Limitations,Q2 - How to Label?,2,I12
+Maybe Too Abstract,Limitations,4,I12
+Metric Aggregation & Compound,Misunderstanding & Confusion,2,I12
+ML Engineering,Types of Daily Work,1,I12
+Model Catalogues & Decisions,Possible Use Cases,1,I12
+Model Testing & Usability,Possible Use Cases,1,I12
+Money Quotes,General Codes,2,I12
+More Info on Up-to-dateness,Room for Improvements,1,I12
+Natural Language Processing,ML Methods,1,I12
+OpenAI,ML Tools & Brands,1,I12
+Predictive Quality,Property Importance,2,I12
+Privacy,Requirements on AI,1,I12
+Robustness,Understanding of Properties,1,I12
+Self- VS Externally-Certified,Trustable Authorities,1,I12
+Software Development,Types of Daily Work,1,I12
+Temporal Performance,Usability & Performance,3,I12
+Termporal Performance,Property Importance,2,I12
+Trust in Individuals & Opinions,Trustable Authorities,1,I12
+Trust in Label Certifyer,Trustable Authorities,1,I12
+Trust in Model Predictions,Dimensions of Trust,1,I12
+Trust in Open Source,Trustable Authorities,1,I12
+Trust Through Usage,Reasons for Trust,1,I12
+Understanding & Transparency,Requirements on AI,2,I12
+Usability & Performance,Requirements on AI,2,I12
+Used: Blogs and Journalists,Workflows and Use,1,I12
+Using AI VS Developing AI,General Codes,1,I12
+UX Design,Types of Daily Work,3,I12
+Validation & Certification,Possible Use Cases,1,I12
+Accuracy,Understanding of Properties,1,I13
+Actively Used: Social Media and Youtube,Used: Blogs and Journalists,2,I13
+AI-as-a-Service (Pretrained & GenAI),ML Methods,2,I13
+ANON,General Codes,16,I13
+Association: Energy Labels,Associations,1,I13
+Associations,Q2 - How to Label?,1,I13
+AWS,ML Tools & Brands,1,I13
+Azure,ML Tools & Brands,2,I13
+Business Growth Thanks to AI,General Codes,2,I13
+Color Mapping,Misunderstanding & Confusion,2,I13
+Compet Rather Complex (Negative),General Comparison,3,I13
+Consistency & Robustness,Property Importance,2,I13
+Customizability to Use Case,Positive Feedback,2,I13
+Data & Model Confusion,Misunderstanding & Confusion,1,I13
+Data Exploration & Analysis,Types of Daily Work,1,I13
+"Energy, Resources & Sustainability",Property Importance,2,I13
+Experts Using AI,Who Needs Trust,1,I13
+General AI Skeptics,Dimensions of Trust,2,I13
+Improving the Labeling Process,Room for Improvements,3,I13
+Info on Cost & Money,Room for Improvements,2,I13
+Info on Data and Model Relations,Room for Improvements,2,I13
+Interactivity & Customizability,Room for Improvements,2,I13
+Knowledge Acquisition & Transfer,Possible Use Cases,1,I13
+Maybe Too Abstract,Limitations,1,I13
+ML Engineering,Types of Daily Work,1,I13
+Model Catalogues & Decisions,Possible Use Cases,2,I13
+Money Quotes,General Codes,10,I13
+Predictive Quality,Property Importance,1,I13
+QR Codes for More Depth,Design,1,I13
+Robustness,Understanding of Properties,1,I13
+ScikitLearn,ML Tools & Brands,5,I13
+Target Audience,Q2 - How to Label?,1,I13
+TensorFlow,ML Tools & Brands,2,I13
+Termporal Performance,Property Importance,2,I13
+Traditional AI (ML & Training Models),ML Methods,1,I13
+Traditional VS AIaaS,Limitations,2,I13
+Trust in Companies,Trustable Authorities,1,I13
+Trust in Countries & Government,Trustable Authorities,1,I13
+Trust in Label Certifyer,Trustable Authorities,1,I13
+Trust in Labels,Dimensions of Trust,1,I13
+Understanding & Transparency,Requirements on AI,1,I13
+Understanding of Properties,Misunderstanding & Confusion,1,I13
+Understanding Use Cases & Solutions,General Business Problems,3,I13
+Unsupervised & Clustering,ML Methods,1,I13
+Usability & Performance,Requirements on AI,2,I13
+Usability Beats Trust Issues,Trust Through Usage,1,I13
+Use Case Understanding,Limitations,1,I13
+Used: Library Documentation,Workflows and Use,2,I13
+Using AI VS Developing AI,General Codes,1,I13
+Validation & Certification,Possible Use Cases,1,I13
+Accuracy,Understanding of Properties,2,I14
+Advertisement & PR,Possible Use Cases,1,I14
+AI-as-a-Service (Pretrained & GenAI),ML Methods,1,I14
+ANON,General Codes,11,I14
+Association: Energy Labels,Associations,1,I14
+Association: Nutri Score,Associations,2,I14
+Central Compound Rating,Positive Feedback,2,I14
+Change or Enhance Coloring,Room for Improvements,1,I14
+Classification,ML Methods,1,I14
+Communication & Teambuilding,General Business Problems,1,I14
+Compet Rather Complex (Negative),General Comparison,2,I14
+Customizability to Use Case,Positive Feedback,1,I14
+Design,Positive Feedback,3,I14
+Digitalization & Automation,AI Applications & Use Cases,5,I14
+Distrust in Labels,Dimensions of Trust,1,I14
+Documentation & Reporting,Requirements on AI,1,I14
+"Energy, Resources & Sustainability",Property Importance,2,I14
+Inconsistency,General Codes,1,I14
+Insecurity,General Codes,2,I14
+Interactivity & Customizability,Room for Improvements,3,I14
+Knowledge Acquisition & Transfer,Possible Use Cases,1,I14
+Low Cost,Requirements on AI,1,I14
+ML Tools & Brands,Q1 - Who and Why?,1,I14
+Model Catalogues & Decisions,Possible Use Cases,2,I14
+Money Quotes,General Codes,2,I14
+More Benchmark Data,Room for Improvements,2,I14
+Natural Language Processing,ML Methods,1,I14
+Organization & Management,AI Applications & Use Cases,2,I14
+Predictive Maintenance,Manufacturing & Industry,4,I14
+Predictive Quality,Property Importance,1,I14
+Predictive Quality,Usability & Performance,1,I14
+Production Monitoring,Manufacturing & Industry,3,I14
+Q4 - What About Trust?,,1,I14
+QR Codes for More Depth,Design,1,I14
+Robustness,Understanding of Properties,1,I14
+Room for Improvements,Limitations,4,I14
+Self- VS Externally-Certified,Trustable Authorities,2,I14
+Target Audience,Q2 - How to Label?,2,I14
+Termporal Performance,Property Importance,1,I14
+Transparency,Possible Use Cases,3,I14
+Trust in Academia,Trustable Authorities,2,I14
+Trust in Label Certifyer,Trustable Authorities,4,I14
+Trust in Labels,Dimensions of Trust,1,I14
+Understanding of Properties,Misunderstanding & Confusion,5,I14
+Usability & Performance,Requirements on AI,2,I14
+Validation & Certification,Possible Use Cases,1,I14
+Advertisement & PR,Possible Use Cases,1,I15
+Ambiguity of AI Future,General AI Skeptics,1,I15
+ANON,General Codes,9,I15
+Association: Nutri Score,Associations,2,I15
+Business Growth Thanks to AI,General Codes,1,I15
+Color Mapping,Misunderstanding & Confusion,1,I15
+Compet Rather Complex (Negative),General Comparison,2,I15
+Customizability,Requirements on AI,1,I15
+Data & ML Literacy,General Codes,1,I15
+Documentation & Reporting,Requirements on AI,1,I15
+End-Users of AI,Who Needs Trust,1,I15
+"Energy, Resources & Sustainability",Property Importance,3,I15
+Explain Color Scoring,Change or Enhance Coloring,1,I15
+General AI Skeptics,Dimensions of Trust,3,I15
+Inconsistency,General Codes,1,I15
+Interactivity & Customizability,Room for Improvements,1,I15
+IT Security,AI Applications & Use Cases,1,I15
+Knowledge Acquisition & Transfer,Possible Use Cases,2,I15
+Locality,Privacy,3,I15
+Metric Aggregation & Compound,Misunderstanding & Confusion,1,I15
+Model Catalogues & Decisions,Possible Use Cases,2,I15
+Money Quotes,General Codes,7,I15
+Operation & Infrastructure,Types of Daily Work,3,I15
+Positive Feedback,Benefits,2,I15
+Predictive Quality,Property Importance,2,I15
+Privacy,Requirements on AI,1,I15
+Self- VS Externally-Certified,Trustable Authorities,2,I15
+Software Development,Types of Daily Work,2,I15
+Sustainabaility & Resources,Requirements on AI,1,I15
+Termporal Performance,Property Importance,1,I15
+Trust in Academia,Trustable Authorities,1,I15
+Trust in Label Certifyer,Trustable Authorities,3,I15
+Trust in Labels,Dimensions of Trust,1,I15
+Trust in Open Source,Trustable Authorities,1,I15
+Understanding Use Cases & Solutions,General Business Problems,1,I15
+Used: Asking Experts,Workflows and Use,1,I15
+Used: Blogs and Journalists,Workflows and Use,1,I15
+Used: ChatGPT & LLMs,Workflows and Use,1,I15
+Used: Google,Workflows and Use,2,I15
+Used: Paper,Workflows and Use,1,I15
+AI-as-a-Service (Pretrained & GenAI),ML Methods,1,I16
+Ambiguity of AI Future,General AI Skeptics,1,I16
+ANON,General Codes,2,I16
+Association: Nutri Score,Associations,1,I16
+Business Growth Thanks to AI,General Codes,1,I16
+Business Understanding,Types of Daily Work,1,I16
+Central Compound Rating,Positive Feedback,1,I16
+Compet Less Reliable or Relevant (Negative),General Comparison,1,I16
+Compet More In-Depth (Positive),General Comparison,1,I16
+Compet Rather Complex (Negative),General Comparison,2,I16
+Computer Vision,ML Methods,1,I16
+Consistency & Robustness,Usability & Performance,2,I16
+Consulting,Types of Daily Work,2,I16
+Customizability to Use Case,Positive Feedback,1,I16
+Data & ML Literacy,General Codes,2,I16
+Data & Model Confusion,Misunderstanding & Confusion,1,I16
+Digitalization & Automation,AI Applications & Use Cases,1,I16
+End-Users of AI,Who Needs Trust,1,I16
+"Energy, Resources & Sustainability",Property Importance,1,I16
+Experts Using AI,Who Needs Trust,2,I16
+General AI Skeptics,Dimensions of Trust,1,I16
+Generalizability of Labeling,Limitations,2,I16
+Health & Medicine,AI Applications & Use Cases,1,I16
+Inconsistency,General Codes,1,I16
+Insecurity,General Codes,1,I16
+Knowledge Acquisition & Transfer,Possible Use Cases,1,I16
+Marketing & Networking,Types of Daily Work,1,I16
+Metric Aggregation & Compound,Misunderstanding & Confusion,2,I16
+Model Catalogues & Decisions,Possible Use Cases,3,I16
+Money Quotes,General Codes,2,I16
+Multiple Criteria,Design,2,I16
+Natural Language Processing,ML Methods,1,I16
+OpenAI,ML Tools & Brands,2,I16
+Organization & Management,AI Applications & Use Cases,1,I16
+Over-trust,Dimensions of Trust,2,I16
+Privacy,Requirements on AI,2,I16
+Q4 - What About Trust?,,1,I16
+Robustness,Understanding of Properties,1,I16
+Room for Improvements,Limitations,1,I16
+Software Development,Types of Daily Work,1,I16
+Traditional AI (ML & Training Models),ML Methods,1,I16
+Trust and Privacy,Dimensions of Trust,1,I16
+Trust in Model Predictions,Dimensions of Trust,1,I16
+Trust in Open Source,Trustable Authorities,1,I16
+Trust Through Usage,Reasons for Trust,1,I16
+Understanding & Transparency,Requirements on AI,3,I16
+Understanding Use Cases & Solutions,General Business Problems,2,I16
+Use Case Understanding,Limitations,2,I16
+Used: Asking Experts,Workflows and Use,2,I16
+Used: Blogs and Journalists,Workflows and Use,3,I16
+Used: Model Cards,Workflows and Use,1,I16
+Used: Paper,Workflows and Use,1,I16
+Using AI VS Developing AI,General Codes,1,I16
+Accuracy,Understanding of Properties,5,I1
+Advertisement & PR,Possible Use Cases,1,I1
+ANON,General Codes,9,I1
+Association: Energy Labels,Associations,5,I1
+Business Understanding,Types of Daily Work,2,I1
+Communication & Teambuilding,General Business Problems,1,I1
+Data & ML Literacy,General Codes,2,I1
+Data & Model Confusion,Misunderstanding & Confusion,1,I1
+Data Exploration & Analysis,Types of Daily Work,1,I1
+Design,Positive Feedback,1,I1
+End-Users of AI,Who Needs Trust,1,I1
+"Energy, Resources & Sustainability",Property Importance,4,I1
+General AI Skeptics,Dimensions of Trust,1,I1
+Inconsistency,General Codes,5,I1
+In-House Services,AI Applications & Use Cases,2,I1
+Insecurity,General Codes,4,I1
+Knowledge Acquisition & Transfer,Possible Use Cases,1,I1
+Manufacturing & Industry,AI Applications & Use Cases,1,I1
+Misunderstanding & Confusion,Limitations,1,I1
+Model Catalogues & Decisions,Possible Use Cases,2,I1
+Money Quotes,General Codes,1,I1
+OpenAI,ML Tools & Brands,2,I1
+Operation & Infrastructure,Types of Daily Work,3,I1
+Organization & Management,AI Applications & Use Cases,1,I1
+Predictive Quality,Property Importance,1,I1
+Requirements,Workflows and Use,1,I1
+Requirements on AI,Q1 - Who and Why?,1,I1
+Robustness,Understanding of Properties,1,I1
+Room for Improvements,Limitations,1,I1
+Self- VS Externally-Certified,Trustable Authorities,2,I1
+Transparency,Possible Use Cases,1,I1
+Trust in Companies,Trustable Authorities,2,I1
+Trust in Label Certifyer,Trustable Authorities,2,I1
+Types of Daily Work,Q1 - Who and Why?,1,I1
+Understanding & Transparency,Requirements on AI,1,I1
+Up-to-dateness & Usability,Property Importance,1,I1
+Usability Beats Trust Issues,Trust Through Usage,2,I1
+Used: Benchmark Leaderboards,Workflows and Use,1,I1
+AI-as-a-Service (Pretrained & GenAI),ML Methods,2,I2
+ANON,General Codes,2,I2
+Association: Nutri Score,Associations,1,I2
+AWS,ML Tools & Brands,1,I2
+Business Growth Thanks to AI,General Codes,1,I2
+Business Understanding,Types of Daily Work,1,I2
+Communication & Teambuilding,General Business Problems,1,I2
+Compet More In-Depth (Positive),General Comparison,2,I2
+Compet Rather Complex (Negative),General Comparison,1,I2
+Consulting,Types of Daily Work,3,I2
+Dimensions of Trust,Q4 - What About Trust?,1,I2
+Documentation & Reporting,Requirements on AI,1,I2
+End-Users of AI,Who Needs Trust,1,I2
+"Energy, Resources & Sustainability",Property Importance,1,I2
+Experts Using AI,Who Needs Trust,4,I2
+Explain Color Scoring,Change or Enhance Coloring,2,I2
+General AI Skeptics,Dimensions of Trust,2,I2
+General Business Problems,General Codes,4,I2
+Info on Data and Model Relations,Room for Improvements,2,I2
+Interactivity & Customizability,Room for Improvements,2,I2
+Knowledge Acquisition & Transfer,Possible Use Cases,1,I2
+Marketing & Networking,Types of Daily Work,1,I2
+Maybe Too Abstract,Limitations,2,I2
+Metric Aggregation & Compound,Misunderstanding & Confusion,2,I2
+Model Catalogues & Decisions,Possible Use Cases,3,I2
+Natural Language Processing,ML Methods,1,I2
+Regulation Skepsis,Dimensions of Trust,1,I2
+Requirements,Workflows and Use,2,I2
+Research,Types of Daily Work,2,I2
+Room for Improvements,Limitations,5,I2
+Software Development,Types of Daily Work,1,I2
+Traditional AI (ML & Training Models),ML Methods,1,I2
+Trust in Academia,Trustable Authorities,1,I2
+Trust in Label Certifyer,Trustable Authorities,2,I2
+Understanding & Transparency,Requirements on AI,1,I2
+Up-to-dateness & Usability,Property Importance,1,I2
+Usability & Performance,Requirements on AI,1,I2
+Accuracy,Understanding of Properties,1,I3
+Advertisement & PR,Possible Use Cases,1,I3
+AI-as-a-Service (Pretrained & GenAI),ML Methods,2,I3
+ANON,General Codes,6,I3
+Association: Energy Labels,Associations,1,I3
+Association: Nutri Score,Associations,1,I3
+Association: Other,Associations,1,I3
+Azure,ML Tools & Brands,2,I3
+Central Compound Rating,Positive Feedback,1,I3
+Certification,Limitations,1,I3
+Compet More In-Depth (Positive),General Comparison,2,I3
+Compet Rather Complex (Negative),General Comparison,1,I3
+Consistency & Robustness,Usability & Performance,2,I3
+Customizability,Requirements on AI,1,I3
+Data & Model Confusion,Misunderstanding & Confusion,1,I3
+Data Exploration & Analysis,Types of Daily Work,1,I3
+Design,Positive Feedback,4,I3
+Distrust in Labels,Dimensions of Trust,1,I3
+"Energy, Resources & Sustainability",Property Importance,1,I3
+Experts Using AI,Who Needs Trust,1,I3
+Generalizability of Labeling,Limitations,2,I3
+Info on Cost & Money,Room for Improvements,1,I3
+In-House Services,AI Applications & Use Cases,2,I3
+Insecurity,General Codes,1,I3
+Interactivity & Customizability,Room for Improvements,3,I3
+Knowledge Acquisition & Transfer,Possible Use Cases,1,I3
+Low Cost,Requirements on AI,1,I3
+Maybe Too Abstract,Limitations,1,I3
+Metric Aggregation & Compound,Misunderstanding & Confusion,4,I3
+Misunderstanding & Confusion,Limitations,2,I3
+Model Catalogues & Decisions,Possible Use Cases,2,I3
+Multiple Criteria,Design,2,I3
+Natural Language Processing,ML Methods,1,I3
+No Hallucination,Usability & Performance,1,I3
+OpenAI,ML Tools & Brands,1,I3
+Predictive Quality,Property Importance,2,I3
+PyTorch,ML Tools & Brands,1,I3
+Regulation Skepsis,Dimensions of Trust,1,I3
+Robustness,Understanding of Properties,2,I3
+Room for Improvements,Limitations,1,I3
+Self- VS Externally-Certified,Trustable Authorities,2,I3
+Software Development,Types of Daily Work,1,I3
+Termporal Performance,Property Importance,1,I3
+Traditional AI (ML & Training Models),ML Methods,1,I3
+Transparency,Possible Use Cases,1,I3
+Trust in Companies,Trustable Authorities,2,I3
+Trust in Labels,Dimensions of Trust,2,I3
+Trust in Model Information,Dimensions of Trust,1,I3
+Trust in Open Source,Trustable Authorities,1,I3
+Usability & Performance,Requirements on AI,1,I3
+Used: Google,Workflows and Use,1,I3
+Used: Library Documentation,Workflows and Use,2,I3
+Used: Model Cards,Workflows and Use,1,I3
+Used: Paper,Workflows and Use,1,I3
+Workflows and Use,Q3 - Competitors?,1,I3
+Accuracy,Understanding of Properties,1,I4
+Actively Used: Social Media and Youtube,Used: Blogs and Journalists,1,I4
+AI-as-a-Service (Pretrained & GenAI),ML Methods,2,I4
+ANON,General Codes,1,I4
+Association: Nutri Score,Associations,1,I4
+Availablity of Data & Labels,Requirements on AI,2,I4
+Compet More In-Depth (Positive),General Comparison,2,I4
+Compet Rather Complex (Negative),General Comparison,1,I4
+Consistency & Robustness,Property Importance,2,I4
+Customizability,Requirements on AI,4,I4
+Data & ML Literacy,General Codes,1,I4
+Data & Model Confusion,Misunderstanding & Confusion,1,I4
+Design,Positive Feedback,1,I4
+End-Users of AI,Who Needs Trust,1,I4
+"Energy, Resources & Sustainability",Property Importance,1,I4
+General AI Skeptics,Dimensions of Trust,2,I4
+Information on Privacy,Room for Improvements,2,I4
+Insecurity,General Codes,3,I4
+IT Security,AI Applications & Use Cases,1,I4
+Model Catalogues & Decisions,Possible Use Cases,3,I4
+Multiple Criteria,Design,4,I4
+Organization & Management,AI Applications & Use Cases,1,I4
+Predictive Quality,Usability & Performance,1,I4
+Privacy,Requirements on AI,3,I4
+Robustness,Understanding of Properties,2,I4
+Room for Improvements,Limitations,1,I4
+Security,Requirements on AI,1,I4
+Self- VS Externally-Certified,Trustable Authorities,2,I4
+Temporal Performance,Usability & Performance,1,I4
+Termporal Performance,Property Importance,1,I4
+Traditional VS AIaaS,Limitations,1,I4
+Trust and Privacy,Dimensions of Trust,4,I4
+Trust in Label Certifyer,Trustable Authorities,3,I4
+Trust in Labels,Dimensions of Trust,1,I4
+Trust in Open Source,Trustable Authorities,1,I4
+Trust Through Usage,Reasons for Trust,1,I4
+Understanding & Transparency,Requirements on AI,1,I4
+Understanding of Properties,Misunderstanding & Confusion,1,I4
+Understanding Use Cases & Solutions,General Business Problems,1,I4
+Usability Beats Trust Issues,Trust Through Usage,4,I4
+Used: Blogs and Journalists,Workflows and Use,2,I4
+Who Needs Trust,Q4 - What About Trust?,1,I4
+ANON,General Codes,9,I5
+Association: Energy Labels,Associations,1,I5
+Association: Nutri Score,Associations,1,I5
+Association: Other,Associations,1,I5
+Availablity of Data & Labels,Requirements on AI,4,I5
+Change or Enhance Coloring,Room for Improvements,1,I5
+Comparison Difficult,General Comparison,1,I5
+Compet More In-Depth (Positive),General Comparison,1,I5
+Compet Rather Complex (Negative),General Comparison,3,I5
+Computer Vision,ML Methods,2,I5
+Consumer Protection,Possible Use Cases,2,I5
+Design,Positive Feedback,1,I5
+Documentation & Reporting,Requirements on AI,1,I5
+Finding Large Result Databases,Limitations,1,I5
+Health & Medicine,AI Applications & Use Cases,2,I5
+Info on Data and Model Relations,Room for Improvements,1,I5
+Low Cost,Requirements on AI,1,I5
+ML Kit,ML Tools & Brands,1,I5
+Model Catalogues & Decisions,Possible Use Cases,1,I5
+Money Quotes,General Codes,4,I5
+Multiple Criteria,Design,1,I5
+OpenAI,ML Tools & Brands,1,I5
+Predictive Quality,Usability & Performance,1,I5
+Privacy,Requirements on AI,1,I5
+Regulatories and Laws,Requirements on AI,2,I5
+Robustness,Understanding of Properties,1,I5
+Self- VS Externally-Certified,Trustable Authorities,2,I5
+Software Development,Types of Daily Work,2,I5
+Target Audience,Q2 - How to Label?,4,I5
+Trust in Label Certifyer,Trustable Authorities,1,I5
+Trust in Labels,Dimensions of Trust,1,I5
+Trust in Open Source,Trustable Authorities,2,I5
+Understanding & Transparency,Requirements on AI,3,I5
+Used: Blogs and Journalists,Workflows and Use,1,I5
+Used: Library Documentation,Workflows and Use,1,I5
+Used: Model Cards,Workflows and Use,1,I5
+Used: Paper,Workflows and Use,1,I5
+UX Design,Types of Daily Work,1,I5
+Accuracy,Understanding of Properties,1,I6
+AI-as-a-Service (Pretrained & GenAI),ML Methods,3,I6
+Ambiguity of AI Future,General AI Skeptics,1,I6
+ANON,General Codes,9,I6
+Association: Energy Labels,Associations,1,I6
+Association: Nutri Score,Associations,1,I6
+Availablity of Data & Labels,Requirements on AI,2,I6
+Color Mapping,Misunderstanding & Confusion,1,I6
+Compet Less Reliable or Relevant (Negative),General Comparison,2,I6
+Compet More In-Depth (Positive),General Comparison,2,I6
+Compet Rather Complex (Negative),General Comparison,2,I6
+Consulting,Types of Daily Work,1,I6
+Customizability,Requirements on AI,3,I6
+Data & Model Confusion,Misunderstanding & Confusion,2,I6
+Design,Positive Feedback,1,I6
+Distrust in Labels,Dimensions of Trust,2,I6
+End-Users of AI,Who Needs Trust,2,I6
+"Energy, Resources & Sustainability",Property Importance,2,I6
+Generalizability of Labeling,Limitations,2,I6
+In-House Services,AI Applications & Use Cases,2,I6
+Insecurity,General Codes,1,I6
+Knowledge Acquisition & Transfer,Possible Use Cases,1,I6
+Metric Aggregation & Compound,Misunderstanding & Confusion,2,I6
+Misunderstanding & Confusion,Limitations,3,I6
+Model Catalogues & Decisions,Possible Use Cases,2,I6
+Operation & Infrastructure,Types of Daily Work,1,I6
+Predictive Quality,Property Importance,2,I6
+Predictive Quality,Usability & Performance,2,I6
+Privacy,Requirements on AI,1,I6
+Property Importance,Q2 - How to Label?,1,I6
+Regulation Skepsis,Dimensions of Trust,1,I6
+Retail & E-Commerce,AI Applications & Use Cases,1,I6
+Robustness,Understanding of Properties,2,I6
+Self- VS Externally-Certified,Trustable Authorities,3,I6
+Software Development,Types of Daily Work,1,I6
+Termporal Performance,Property Importance,1,I6
+Traditional VS AIaaS,Limitations,3,I6
+Trust and Privacy,Dimensions of Trust,1,I6
+Trust in Companies,Trustable Authorities,1,I6
+Trust in Countries & Government,Trustable Authorities,1,I6
+Trust in Label Certifyer,Trustable Authorities,5,I6
+Trust in Labels,Dimensions of Trust,1,I6
+Trust in Open Source,Trustable Authorities,1,I6
+Using AI VS Developing AI,General Codes,1,I6
+Accuracy,Understanding of Properties,1,I7
+AI-as-a-Service (Pretrained & GenAI),ML Methods,2,I7
+ANON,General Codes,5,I7
+Association: Energy Labels,Associations,1,I7
+Association: Nutri Score,Associations,1,I7
+Automated Data Labeling,ML Methods,1,I7
+Availablity of Data & Labels,Requirements on AI,1,I7
+AWS,ML Tools & Brands,1,I7
+Central Compound Rating,Positive Feedback,1,I7
+Change or Enhance Coloring,Room for Improvements,1,I7
+Color Mapping,Misunderstanding & Confusion,1,I7
+Compet Rather Complex (Negative),General Comparison,2,I7
+Computer Vision,ML Methods,2,I7
+Consulting,Types of Daily Work,1,I7
+Customizability,Requirements on AI,1,I7
+Design,Positive Feedback,1,I7
+Developers of AI,Who Needs Trust,1,I7
+Distrust in Labels,Dimensions of Trust,1,I7
+Experienced Quality & Human Feedback,Predictive Quality,2,I7
+Generalizability of Labeling,Limitations,1,I7
+Improving the Labeling Process,Room for Improvements,2,I7
+Interactivity & Customizability,Room for Improvements,3,I7
+Knowledge Acquisition & Transfer,Possible Use Cases,4,I7
+Marketing & Networking,Types of Daily Work,1,I7
+Maybe Too Abstract,Limitations,2,I7
+ML Engineering,Types of Daily Work,2,I7
+Model Catalogues & Decisions,Possible Use Cases,6,I7
+Money Quotes,General Codes,5,I7
+More Info on Up-to-dateness,Room for Improvements,3,I7
+Multiple Criteria,Design,1,I7
+Natural Language Processing,ML Methods,1,I7
+OpenAI,ML Tools & Brands,1,I7
+Predictive Quality,Property Importance,2,I7
+Predictive Quality,Usability & Performance,1,I7
+Privacy,Requirements on AI,1,I7
+Regulation Skepsis,Dimensions of Trust,2,I7
+Robustness,Understanding of Properties,1,I7
+Segment Anything,ML Tools & Brands,2,I7
+Self- VS Externally-Certified,Trustable Authorities,1,I7
+Software Development,Types of Daily Work,1,I7
+Target Audience,Q2 - How to Label?,2,I7
+Termporal Performance,Property Importance,1,I7
+Traditional AI (ML & Training Models),ML Methods,1,I7
+Trust and Privacy,Dimensions of Trust,1,I7
+Trust in Companies,Trustable Authorities,1,I7
+Trust in Label Certifyer,Trustable Authorities,1,I7
+Trust in Labels,Dimensions of Trust,1,I7
+Trust in Open Source,Trustable Authorities,1,I7
+Trust Though Large Groups,Reasons for Trust,1,I7
+Trust Through Usage,Reasons for Trust,3,I7
+Up-to-dateness & Usability,Property Importance,1,I7
+Usability & Performance,Requirements on AI,1,I7
+Used: Paper,Workflows and Use,1,I7
+Used: Papers With Code,Workflows and Use,2,I7
+Workflows and Use,Q3 - Competitors?,1,I7
+Accuracy,Understanding of Properties,1,I8
+AI-as-a-Service (Pretrained & GenAI),ML Methods,5,I8
+ANON,General Codes,3,I8
+Association: Energy Labels,Associations,2,I8
+Business Growth Thanks to AI,General Codes,3,I8
+Central Compound Rating,Positive Feedback,2,I8
+Color Mapping,Misunderstanding & Confusion,1,I8
+Communication & Teambuilding,General Business Problems,2,I8
+Compet More In-Depth (Positive),General Comparison,1,I8
+Compet Rather Complex (Negative),General Comparison,4,I8
+Customizability,Requirements on AI,1,I8
+Data & Model Confusion,Misunderstanding & Confusion,2,I8
+Data Connectivity,Availablity of Data & Labels,1,I8
+Design,Positive Feedback,3,I8
+Developers of AI,Who Needs Trust,2,I8
+Documentation & Reporting,Requirements on AI,2,I8
+General AI Skeptics,Dimensions of Trust,3,I8
+Hardware & Environment Info,Design,1,I8
+Info on Data and Model Relations,Room for Improvements,1,I8
+Knowledge Acquisition & Transfer,Possible Use Cases,1,I8
+Locality,Privacy,2,I8
+Maybe Too Abstract,Limitations,1,I8
+Metric Aggregation & Compound,Misunderstanding & Confusion,1,I8
+Misunderstanding & Confusion,Limitations,2,I8
+Model Catalogues & Decisions,Possible Use Cases,8,I8
+Money Quotes,General Codes,1,I8
+Moving with SOTA,General Business Problems,1,I8
+Multiple Criteria,Design,1,I8
+Natural Language Processing,ML Methods,1,I8
+Operation & Infrastructure,Types of Daily Work,4,I8
+Power Draw,Understanding of Properties,1,I8
+Predictive Maintenance,Manufacturing & Industry,1,I8
+Predictive Quality,Property Importance,2,I8
+Privacy,Requirements on AI,1,I8
+Requirements,Workflows and Use,1,I8
+Robustness,Understanding of Properties,1,I8
+Self- VS Externally-Certified,Trustable Authorities,1,I8
+Traditional AI (ML & Training Models),ML Methods,4,I8
+Traditional VS AIaaS,Limitations,2,I8
+Traffic Planning,AI Applications & Use Cases,1,I8
+Transparency,Possible Use Cases,2,I8
+Trust in Label Certifyer,Trustable Authorities,2,I8
+Trust in Labels,Dimensions of Trust,1,I8
+Trust in Open Source,Trustable Authorities,1,I8
+Trust Through Usage,Reasons for Trust,1,I8
+Understanding & Transparency,Requirements on AI,2,I8
+Understanding of Properties,Misunderstanding & Confusion,2,I8
+Usability & Performance,Requirements on AI,1,I8
+Usability Beats Trust Issues,Trust Through Usage,1,I8
+Used: Blogs and Journalists,Workflows and Use,2,I8
+Used: Library Documentation,Workflows and Use,1,I8
+Used: Paper,Workflows and Use,1,I8
+Workflows and Use,Q3 - Competitors?,2,I8
+ANON,General Codes,3,I9
+Availablity of Data & Labels,Requirements on AI,3,I9
+Color Mapping,Misunderstanding & Confusion,1,I9
+Compet Rather Complex (Negative),General Comparison,2,I9
+Data & Model Confusion,Misunderstanding & Confusion,2,I9
+Data Exploration & Analysis,Types of Daily Work,2,I9
+Design,Positive Feedback,2,I9
+"Energy, Resources & Sustainability",Property Importance,1,I9
+Explain Color Scoring,Change or Enhance Coloring,1,I9
+Finance & Fraud Detection,AI Applications & Use Cases,2,I9
+In-House Services,AI Applications & Use Cases,1,I9
+Knowledge Acquisition & Transfer,Possible Use Cases,1,I9
+Metric Aggregation & Compound,Misunderstanding & Confusion,4,I9
+ML Engineering,Types of Daily Work,2,I9
+Model Catalogues & Decisions,Possible Use Cases,4,I9
+Model Testing & Usability,Possible Use Cases,1,I9
+Money Quotes,General Codes,1,I9
+More Benchmark Data,Room for Improvements,1,I9
+Multiple Criteria,Design,1,I9
+Organization & Management,AI Applications & Use Cases,1,I9
+Predictive Quality,Property Importance,3,I9
+PyTorch,ML Tools & Brands,2,I9
+ScikitLearn,ML Tools & Brands,2,I9
+Self- VS Externally-Certified,Trustable Authorities,1,I9
+Software Development,Types of Daily Work,1,I9
+TensorFlow,ML Tools & Brands,2,I9
+Traditional AI (ML & Training Models),ML Methods,1,I9
+Trust in Companies,Trustable Authorities,2,I9
+Trust Through Usage,Reasons for Trust,3,I9
+Unsupervised & Clustering,ML Methods,2,I9
+Up-to-dateness & Usability,Property Importance,2,I9
+Used: Code Repos,Workflows and Use,2,I9
+Used: Google,Workflows and Use,1,I9
+Used: Paper,Workflows and Use,1,I9
