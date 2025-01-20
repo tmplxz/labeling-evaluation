@@ -4,8 +4,28 @@ import time
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
+from plotly.colors import sample_colorscale, make_colorscale
 
+import numpy as np
 import pandas as pd
+
+
+LAMARR_COLORS = [
+    '#009ee3', # aqua
+    '#983082', # fresh violet
+    '#ffbc29', # sunshine
+    '#35cdb4', # carribean
+    '#e82e82', # fuchsia
+    '#59bdf7', # sky blue
+    '#ec6469', # indian red
+    '#706f6f', # gray
+    '#4a4ad8', # corn flower
+    '#0c122b', # dark corn flower
+    '#ffffff'
+]
+LAM_COL_SCALE = make_colorscale([LAMARR_COLORS[0], LAMARR_COLORS[2], LAMARR_COLORS[4]])
+LAM_COL_FIVE = sample_colorscale(LAM_COL_SCALE, np.linspace(0, 1, 5))
+LAM_COL_TEN = sample_colorscale(LAM_COL_SCALE, np.linspace(0, 1, 10))
 
 
 def build_dict_from_excel(excel_file, discard):
@@ -198,8 +218,8 @@ authorities = find_tree(TREE_MERGED, 'Trustable Authorities')
 reason_data = {n: r['frequency'] + r['sub_frequency'] for n, r in authorities['children'].items()}
 reason_data.update({n: r['frequency'] + r['sub_frequency'] for n, r in reasons['children'].items() if n!='Trustable Authorities'})
 reason_data['Others'] = sum([d['frequency'] + d['sub_frequency'] for d in [reasons['children']['Others'], authorities['children']['Others']]])
-fig = go.Figure(go.Bar(y=list(reason_data.keys()), x=list(reason_data.values()), orientation='h'))
-fig.add_shape(type="rect", x0=0, y0=0.5, x1=15, y1=4.5, line=dict(color="RoyalBlue"))
+fig = go.Figure(go.Bar(y=list(reason_data.keys()), x=list(reason_data.values()), orientation='h', marker=dict(color=sample_colorscale(LAM_COL_SCALE, np.linspace(0, 1, len(reason_data))))))
+fig.add_shape(type="rect", x0=0, y0=0.5, x1=15, y1=4.5, line=dict(color=LAMARR_COLORS[-2]))
 fig.add_annotation(text="Authorities", x=16, y=2.5, showarrow=False, textangle=-90)
 fig.update_layout(width=PLOT_WIDTH*0.5, height=PLOT_HEIGHT, margin={'l': 0, 'r': 0, 'b': 0, 't': 0}, showlegend=False)
 fig.show()
@@ -207,7 +227,7 @@ fig.write_image("paper_results/q4_trust_reasons.pdf")
 
 # Q3 competitors used
 used = {n.replace('Used: ', ''): c['frequency'] + c['sub_frequency'] for n, c in find_tree(TREE_MERGED, 'Workflows and Use')['children'].items() if 'Used' in n or 'Other' in n}
-fig = go.Figure(go.Bar(y=list(used.keys()), x=list(used.values()), orientation='h'))
+fig = go.Figure(go.Bar(y=list(used.keys()), x=list(used.values()), orientation='h', marker=dict(color=sample_colorscale(LAM_COL_SCALE, np.linspace(0, 1, len(used))))))
 fig.update_layout(width=PLOT_WIDTH*0.5, height=PLOT_HEIGHT, margin={'l': 0, 'r': 0, 'b': 0, 't': 0}, showlegend=False)
 fig.show()
 fig.write_image("paper_results/q3_competitors.pdf")
@@ -228,9 +248,9 @@ for id, data in codes_per_id.groupby('id'):
     for code, count in counts.items():
         interviewees.loc[idx,code] = count
 fig = go.Figure()
-fig.add_trace(go.Bar(x=interviewees['id'], y=interviewees['Benefits'], name='Benefits'))
-fig.add_trace(go.Bar(x=interviewees['id'], y=interviewees['Room for Improvements'] * -1, name='Room for Improvements'))
-fig.add_trace(go.Bar(x=interviewees['id'], y=interviewees['Limitations'] * -1, name='Limitations'))
+fig.add_trace(go.Bar(x=interviewees['id'], y=interviewees['Benefits'], name='Benefits', marker=dict(color=LAM_COL_FIVE[0])))
+fig.add_trace(go.Bar(x=interviewees['id'], y=interviewees['Room for Improvements'] * -1, name='Room for Improvements', marker=dict(color=LAM_COL_FIVE[2])))
+fig.add_trace(go.Bar(x=interviewees['id'], y=interviewees['Limitations'] * -1, name='Limitations', marker=dict(color=LAM_COL_FIVE[4])))
 fig.update_layout(barmode='relative', width=PLOT_WIDTH*0.6, height=PLOT_HEIGHT, margin={'l': 0, 'r': 0, 'b': 0, 't': 0},
                   legend=dict(orientation="h", yanchor="top", y=1.2, xanchor="center", x=0.5),
                   yaxis={'title': 'Code Occurrences', 'tick0': -20, 'dtick': 5, 'tickformat': '',
@@ -249,8 +269,8 @@ for code in codes:
         if 'Q2' in fam:
             prop_importance[fam][-1] = prop_importance[fam][-1] * -1
 fig = go.Figure()
-fig.add_trace(go.Bar(x=list(codes.values()), y=prop_importance['Q1 - Who and Why?'], name='generally discussing AI'))
-fig.add_trace(go.Bar(x=list(codes.values()), y=prop_importance['Q2 - How to Label?'], name='facing labels'))
+fig.add_trace(go.Bar(x=list(codes.values()), y=prop_importance['Q1 - Who and Why?'], name='generally discussing AI', marker=dict(color=LAM_COL_FIVE[0])))
+fig.add_trace(go.Bar(x=list(codes.values()), y=prop_importance['Q2 - How to Label?'], name='facing labels', marker=dict(color=LAM_COL_FIVE[4])))
 fig.update_layout(barmode='relative', width=PLOT_WIDTH*0.4, height=PLOT_HEIGHT, margin={'l': 0, 'r': 0, 'b': 0, 't': 0},
                   legend=dict(orientation='h', yanchor="top", y=1.2, xanchor="center", x=0.5),
                   yaxis={'title': 'Code Occurrences', 'tick0': -20, 'dtick': 5, 'tickformat': '',
@@ -267,46 +287,9 @@ for i, (code, dict) in enumerate(daily_dicts.items()):
     keys = [key[:20] + '..' if len(key) > 20 else key for key in dict.keys()]
     values = [info['frequency'] + info['sub_frequency'] for info in dict.values()]
     fig.add_trace(
-        go.Bar(x=values, y=keys, orientation='h', name=code),
+        go.Bar(x=values, y=keys, orientation='h', name=code, marker={'color': sample_colorscale(LAM_COL_SCALE, np.linspace(0, 1, len(keys)))}),
         row=i//3+1, col=i%3+1
     )
 fig.update_layout(width=PLOT_WIDTH, height=PLOT_HEIGHT*2.0, margin={'l': 0, 'r': 0, 'b': 0, 't': 18}, showlegend=False)
 fig.show()
 fig.write_image("paper_results/q1_bars.pdf")
-
-
-
-
-# data = data.drop('Job Title', axis=1)
-
-# fig = make_subplots(
-#     rows=2, cols=2,
-#     subplot_titles=data.columns.tolist()
-# )
-
-# # Add a histogram for each column
-# for i, column in enumerate(data.columns):
-#     if data[column].dtype == 'object':
-#         print(column)
-#         # Categorical data: bar chart of counts
-#         fig.add_trace(
-#             px.histogram(data, x=column).data[0], 
-#             row=i//2+1, col=i%2 + 1
-#         )
-#     else:
-#         # Numeric data: histogram
-#         fig.add_trace(
-#             px.histogram(data, x=column, nbins=10).data[0], 
-#             row=i//2+1, col=i%2 + 1
-#         )
-
-# # Update layout
-# fig.update_layout(
-#     title_text="Distribution of Interviewee Attributes",
-#     showlegend=False,
-#     height=500, width=600,
-#     template='plotly_white'
-# )
-
-# # Show plot
-# fig.show()
